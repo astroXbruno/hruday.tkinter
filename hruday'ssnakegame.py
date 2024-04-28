@@ -26,7 +26,7 @@ food.goto(0, 100)
 segments = []
 score = 0
 game_running = False
-speed_level = 0.1 # Default speed (medium)
+speed_level = 0.1 
 
 game_over_text = turtle.Turtle()
 game_over_text.speed(0)
